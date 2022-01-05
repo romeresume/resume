@@ -1,0 +1,123 @@
+<!doctype html>
+<html><html lang="en">
+
+<head>
+
+<meta charset="UTF-8" />
+
+<title>Romuald's Resume</title>
+
+</head>
+
+<body>
+
+<table width="80%" border="3px" align="center">
+
+<body background="background.jpg"/>
+
+<!--********HEADER SECTION START********-->
+<tr>
+
+<td colspan="2" align="center">
+
+<img src="images/bg.png.png"/ width="100%">
+
+</td>
+
+</tr>
+<!--********HEADER SECTION END********-->
+
+<!--********MENU SECTION START********-->
+<tr bgcolor="red">
+
+<td colspan="2" align="center">
+
+<ul>
+<center>
+<a href="Resume Website.html"><button autofocus="autofocus">HOME </button></a>
+<a href="personal information.html"><button autofocus="autofocus">PERSONAL INFORMATION </button></a>
+<a href="education.html"><button autofocus="autofocus">EDUCATION </button></a>
+<a href="experience.html"><button autofocus="autofocus">EXPERIENCE </button></a>
+<a href="Romuald's Resume.html"><button autofocus="autofocus">RESUME </button></a>
+<a href="community.html"><button autofocus="autofocus">COMMUNITY </button></a>
+
+<!--********MENU SECTION END********-->
+
+<!--********DETAILS SECTION START********-->
+<tr bgcolor="white">
+
+<!--********CONTENT SECTION START********-->
+<td align="center" width="80%">
+<marquee><h1 style="font-kristen ITC:nexa; color:RED;">COMMUNITY</h1></marquee>
+<h1 style="font-kristen ITC:nexa; color:red;"></h1>
+
+<hr noshade width="100%"/>
+
+<h3><font face="Papyrus"><center>ALPHA SESSION 2020</center></font face></h3>
+<center><img width="200" height="250" <img src="images/alpha.jpg"/>
+<center><p>Joined sharing and Discussions of faith community organized by Church Of Divine Mercy Shah Alam.
+<br/>
+<br/>
+
+<hr noshade width="100%"/>
+
+<h3><font face="Papyrus"><center>CHRISTMAS CAROLLING AT KUALA SELANGOR</center></font face></h3>
+<center><img width="250" height="220" <img src="images/choir cvs.jpg"/>
+<center><p>Joined Chritsmas choir organized by the Charity varsity Students Puncak.
+
+<br/>
+<br/>
+
+<!--********CONTENT SECTION END********-->
+
+<!--********SIDEBAR SECTION START********-->
+
+<td colspan="2" bgcolor="#ff00ff" valign="top">
+
+<br/>
+<br/>
+
+<center><h1 style="font-family:Consolas; color:black;"><small><small> CONTACT ME!:</small></small></h1></center>
+
+<br/>
+<br/>
+<br/>
+
+<center><a href="https://www.facebook.com/SufianaJumit"target=blank"><img src="image/fb.png" width="50px" title="Facebook"/></a>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<center><a href="http://www.wasap.my/+601119180429"target="blank"><img src="image/whatsapp.jpeg" width="50px" title="whatsapp"/></a>
+
+</td>
+
+<!--********SIDEBAR SECTION END********-->
+
+</tr>
+<!--********DETAILS SECTION END********-->
+
+
+<!--********FOOTER SECTION START********-->
+<tr bgcolor="#ffff99">
+
+<td colspan="2" align="center">
+
+<center><p> Copyright © 2021 Sufiana Jumit.<a href="aboutme.html">About Me</a></p>
+<p> This website is for educational purposes (IMS456)</p>    
+<p>Last Updated 17 June 2021.</p>
+<p>All Rights Reserved.</p>
+
+</td>
+<!--********FOOTER SECTION END********-->
+
+</tr>
+<!--********3RD ROW END********-->
+
+
+</body>
+
+<html>

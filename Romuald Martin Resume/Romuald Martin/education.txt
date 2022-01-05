@@ -1,0 +1,214 @@
+<!doctype html>
+<html><html lang="en">
+
+<head>
+
+<meta charset="UTF-8" />
+
+<title>Romuald's Resume</title>
+
+</head>
+
+<body>
+
+<table width="80%" border="3px" align="center">
+
+<body background="background.jpg"/>
+
+<!--********HEADER SECTION START********-->
+<tr>
+
+<td colspan="2" align="center">
+
+<img src="images/bg.png.png"/ width="100%">
+
+</td>
+
+</tr>
+<!--********HEADER SECTION END********-->
+
+<!--********MENU SECTION START********-->
+<tr bgcolor="red">
+
+<td colspan="2" align="center">
+
+<ul>
+<center>
+<a href="Resume Website.html"><button autofocus="autofocus">HOME </button></a>
+<a href="personal information.html"><button autofocus="autofocus">PERSONAL INFORMATION </button></a>
+<a href="education.html"><button autofocus="autofocus">EDUCATION </button></a>
+<a href="experience.html"><button autofocus="autofocus">EXPERIENCE </button></a>
+<a href="Romuald's Resume.html"><button autofocus="autofocus">RESUME </button></a>
+<a href="community.html"><button autofocus="autofocus">COMMUNITY </button></a>
+
+
+<!--********MENU SECTION END********-->
+
+<!--********DETAILS SECTION START********-->
+<tr bgcolor="#b3b3ff">
+
+<!--********CONTENT SECTION START********-->
+<td align="center" width="80%">
+<marquee><h1 style="font-kristen ITC:nexa; color:RED;">EDUCATION</h1></marquee>
+<h1 style="font-kristen ITC:nexa; color:red;"></h1>
+
+<hr noshade width="100%"/>
+
+<br/>
+
+<h3><font face="Papyrus"><center>UNIVERSITI TEKNOLOGI MARA</center></font face></h3>
+
+<center><img width="250" height="120" <img src="images/uitm.png">
+</th>
+
+<br/>
+<br/>
+<center><table bgcolor="#ffcce6" border="2" width="40%"" align="center">
+<tr>
+
+<td><p><center> Higher Education
+<br/>
+<br/>
+<center>BACHELOR OF SCIENCE IN LIBRARY MANAGEMENT
+<br/>
+<center>(2019-Current)
+<p><a href="https://www.facebook.com/uitmfpm" target="_blank">Facebook Page</a></p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
+<h3><font face="Papyrus"><center>TINGKATAN 6 SMK TAMBUNAN/center></font face></h3>
+
+<center><img width="200" height="120" <img src="images/smk tambunan.jpg"/>
+</th>
+
+<br/>
+<br/>
+<center><table bgcolor="#ffcce6" border="2" width="40%"" align="center">
+<tr>
+
+<td><p><center> Pre-University
+<br/>
+<br/>
+<center>MALAYSIAN HIGHER SCHOOL CERTIFICATE (STPM)
+<br/>
+<center>(2016-2017)
+<p><a href="https://www.facebook.com/sementasabah">Facebook Page</a></p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
+<h3><font face="Papyrus"><center>SMK TAMBUNAN</center></font face></h3>
+
+<center><img width="200" height="120" <img src="images/smk tambunan.jpg" />
+</th>
+
+<br/>
+<br/>
+<center><table bgcolor="#ffcce6" border="2" width="40%"" align="center">
+<tr>
+
+<td><p><center> Secondary School
+<br/>
+<br/>
+<center>SIJIL PELAJARAN MALAYSIA (SPM)
+<br/>
+<center>(2015-2017)</p>
+<br/>
+<center> PENTAKSIRAN TINGKATAN 3 (PT3)
+<center>(2012-2014)
+<p><a href="https://www.facebook.com/sementasabah">Facebook Page</a></p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
+<h3><font face="Papyrus"><center>SK PEKAN TAMBUNAN</center></font face></h3>
+
+<center><img width="200" height="120" <img src="images/sk pekan.jpg"/>
+</th>
+
+<br/>
+<br/>
+<center><table bgcolor="#ffcce6" border="2" width="40%" align="center">
+<tr>
+
+<td><p><center> Primary School
+<br/>
+<br/>
+<center>UJIAN PENILAIAN SEKOLAH RENDAH (UPSR)
+<br/>
+<center>(2006-2011)</p>
+<p><a href="https://www.facebook.com/skpekantambunan.pekan" target="_blank">Facebook Page</a></p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!--********CONTENT SECTION END********-->
+
+<!--********SIDEBAR SECTION START********-->
+
+<td colspan="2" bgcolor="#ff00ff" valign="top">
+
+<br/>
+<br/>
+
+<center><h1 style="font-family:Consolas; color:black;"><small><small> CONTACT ME!:</small></small></h1></center>
+
+<br/>
+<br/>
+<br/>
+
+<center><a href="https://www.facebook.com/romuald.martin.338/"target=blank"><img src="images/fb.png" width="50px" title="Facebook"/></a>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<center><a href="http://www.wasap.my/+601125290500"target="blank"><img src="images/whatsapp.png" width="50px" title="whatsapp"/></a>
+
+
+</td>
+
+<!--********SIDEBAR SECTION END********-->
+
+</tr>
+<!--********DETAILS SECTION END********-->
+
+
+<!--********FOOTER SECTION START********-->
+<tr bgcolor="#ffff99">
+
+<td colspan="2" align="center">
+
+<center><p> Copyright © 2022 Romuald Martin.<a href="aboutme.html">About Me</a></p>
+<p> This website is for educational purposes (IMS456)</p>    
+<p>Last Updated 04 Jan 2022.</p>
+<p>All Rights Reserved.</p>
+
+</td>
+<!--********FOOTER SECTION END********-->
+
+</tr>
+<!--********3RD ROW END********-->
+
+
+</body>
+
+<html>

@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Romuald's Resume</title>
+	<link rel="stylesheet" href="styles.css">
+	<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+</head>
+<body>
+
+<div class="resume">
+   <div class="resume_left">
+     <div class="resume_profile">
+       <img src="images/profile.jpg" alt="profile_pic">
+     </div>
+     <div class="resume_content">
+       <div class="resume_item resume_info">
+         <div class="title">
+           <p class="bold">Romuald Martin</p>
+           <p class="regular">Student</p>
+         </div>
+         <ul>
+           <li>
+             <div class="icon">
+               <i class="fas fa-map-signs"></i>
+             </div>
+             <div class="data">
+               Kg Sandapak, Tambunan <br /> Malaysia
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fas fa-mobile-alt"></i>
+             </div>
+             <div class="data">
+               +601125290500
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fas fa-envelope"></i>
+             </div>
+             <div class="data">
+               romxavier6@gmail.com
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fab fa-weebly"></i>
+             </div>
+             <div class="data">
+               www.romualdmartin.com
+             </div>
+           </li>
+         </ul>
+       </div>
+       <div class="resume_item resume_skills">
+         <div class="title">
+           <p class="bold">skill's</p>
+         </div>
+         <ul>
+           <li>
+             <div class="skill_name">
+               Microsoft Words
+             </div>
+             <div class="skill_progress">
+               <span style="width: 80%;"></span>
+             </div>
+             <div class="skill_per">80%</div>
+           </li>
+           <li>
+             <div class="skill_name">
+               Microsoft Powerpoint
+             </div>
+             <div class="skill_progress">
+               <span style="width: 70%;"></span>
+             </div>
+             <div class="skill_per">70%</div>
+           </li>
+           <li>
+             <div class="skill_name">
+               Microsoft Excell
+             </div>
+             <div class="skill_progress">
+               <span style="width: 50%;"></span>
+             </div>
+             <div class="skill_per">50%</div>
+           </li>
+           <li>
+             <div class="skill_name">
+               HTML
+             </div>
+             <div class="skill_progress">
+               <span style="width: 50%;"></span>
+             </div>
+             <div class="skill_per">50%</div>
+           </li>
+           <li>
+             <div class="skill_name">
+               CSS
+             </div>
+             <div class="skill_progress">
+               <span style="width: 40%;"></span>
+             </div>
+             <div class="skill_per">40%</div>
+           </li>
+         </ul>
+       </div>
+       <div class="resume_item resume_social">
+         <div class="title">
+           <p class="bold">Social</p>
+         </div>
+         <ul>
+           <li>
+             <div class="icon">
+               <i class="fab fa-facebook-square"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Facebook</p>
+               <p>romuald.martin.338</p>
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fab fa-twitter-square"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Twitter</p>
+               <p>Romuald Martin</p>
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fab fa-youtube"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Youtube</p>
+               <p>Romuald Martin</p>
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fab fa-linkedin"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Linkedin</p>
+               <p>rome romeo</p>
+             </div>
+           </li>
+         </ul>
+       </div>
+     </div>
+  </div>
+  <div class="resume_right">
+    <div class="resume_item resume_about">
+        <div class="title">
+           <p class="bold">About me</p>
+         </div>
+        <p>I am highly determined and willing to learn in order to enhance my skills and knowledge. I am an experienced Library Assistant seeking a full-time position in the field of Librarianship, where i can apply my knowledge and skills for continuous improvement for the future development of myself and company.</p>
+    </div>
+    <div class="resume_item resume_work">
+        <div class="title">
+           <p class="bold">Work Experience</p>
+         </div>
+        <ul>
+            <li>
+                <div class="date">2019</div> 
+                <div class="info">
+                     <p class="semi-bold">Mutiara Car wash</p> 
+                  <p>I have been worked here since 2019 after graduated from Form 6 Diploma for 2 months only.</p>
+                </div>
+    <div class="resume_item resume_education">
+      <div class="title">
+           <p class="bold">Education</p>
+         </div>
+      <ul>
+            <li>
+                <div class="date">2019 - 2023</div> 
+                <div class="info">
+                     <p class="semi-bold">UiTM Puncak Perdana</p> 
+                  <p>Bachelor of Information Management (hons) Library Management</p>
+                </div>
+            </li>
+            <li>
+              <div class="date">2018 - 2019</div> 
+              <div class="info">
+                   <p class="semi-bold">SMK Tambunan (Pre-University)</p> 
+                <p>Malaysian Higher School Certificate (STPM)</p>
+              </div>
+          </li>
+            <li>
+              <div class="date">2012 - 2017</div>
+              <div class="info">
+                     <p class="semi-bold">SMK Tambunan</p> 
+                  <p>Form Three Assessment (PT3), 
+                    Malaysian Certificate of Education (SPM)</p>
+                </div>
+            </li>
+            <li>
+              <div class="date">2007 - 2011</div> 
+              <div class="info">
+                   <p class="semi-bold">SK Pekan Tambunan</p> 
+                <p>Primary School Achievement Test (UPSR)</p>
+              </div>
+        </ul>
+    </div>
+    <div class="resume_item resume_hobby">
+      <div class="title">
+           <p class="bold">Hobby</p>
+         </div>
+       <ul>
+         <li><i class="fas fa-book"></i></li>
+         <li><i class="fas fa-gamepad"></i></li>
+         <li><i class="fas fa-music"></i></li>
+         <li><i class="fab fa-pagelines"></i></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

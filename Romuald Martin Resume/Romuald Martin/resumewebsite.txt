@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Romuald's Website</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+</head>
+<body>
+    <div class="header">
+        <div class="navbar">
+            <div class="logo">
+                <a href="#">RM</a>
+            </div>
+        <div class="menu">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Personal Information</a></li>
+                <li><a href="#">Education</a></li>
+                <li><a href="#">Experience</a></li>
+                <li><a href="#">Community</a></li>
+                <li><a href="#">Resume</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+        <div class="contact-info">
+            <ul>
+                <li><a href="#" class="phone-no">+601125290500</a></li>
+                <li><a href="#" class="sep">/</a></li>
+                <li><a href="#" class="email">romxavier6@gmail.com</a></li>
+            </ul>
+        </div>
+        <div class="social-icons">
+            <ul>
+                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
+                <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+</body>
+</html>
